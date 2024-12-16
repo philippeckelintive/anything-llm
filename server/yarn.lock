@@ -1095,10 +1095,10 @@
   resolved "https://registry.yarnpkg.com/@kwsites/promise-deferred/-/promise-deferred-1.1.1.tgz#8ace5259254426ccef57f3175bc64ed7095ed919"
   integrity sha512-GaHYm+c0O9MjZRu0ongGBRbinu8gVAMd2UZjji6jVmqKtZluZnptXGWhz1E8j8D2HJ3f/yMxKAUC0b+57wncIw==
 
-"@ladjs/graceful@^3.2.2":
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/@ladjs/graceful/-/graceful-3.2.2.tgz#1b141a9dc2604df99177d6714dbe4a0bff5e2ddf"
-  integrity sha512-GyL5Cpgh2RlndFW2e4AUHrEDe0tzyXKpAs92wrAQhNKcY0y++qfK8PC+6TOHzN9zvxPY9j1KAU29Gfa9vxWzDg==
+"@ladjs/graceful@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@ladjs/graceful/-/graceful-4.1.0.tgz#33f8f8690c1ed098cfdbdd429e7c209d5def166f"
+  integrity sha512-Y0W1/6t2lNyBZ3qD5JgVq4I0nktMClY1dOX9STWpmX4j9u9dBml4j1tWPQzDk2i/dFfrUG1mkZdERUslY/J0lQ==
   dependencies:
     lil-http-terminator "^1.2.2"
     p-is-promise "3"
